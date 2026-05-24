@@ -1,14 +1,6 @@
 package packagee.validation;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 
-/**
- *
- * @author danip
- */
 public class UserValidator {
      private static final String USER_ID_REGEX = "\\d{12}";
 
