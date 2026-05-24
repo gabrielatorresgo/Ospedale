@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package packagee.validation;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -9,10 +6,7 @@ import java.time.format.DateTimeParseException;
 import java.time.format.ResolverStyle;
 import packagee.request.PatientRequest;
 
-/**
- *
- * @author danip
- */
+
 public class PatientValidator {
     private static final String PHONE_REGEX = "\\d{10}";
     private static final String EMAIL_REGEX = "^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.com$";
