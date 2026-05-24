@@ -4,6 +4,12 @@
  */
 package packagee;
 
+import packagee.model.Hospitalization;
+import packagee.model.Appointment;
+import packagee.model.Doctor;
+import packagee.model.Patient;
+import packagee.model.Administrator;
+import packagee.model.User;
 import com.formdev.flatlaf.FlatDarkLaf;
 import java.awt.Color;
 import java.time.LocalDate;

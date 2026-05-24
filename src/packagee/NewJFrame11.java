@@ -4,6 +4,12 @@
  */
 package packagee;
 
+import packagee.model.enums.Specialty;
+import packagee.model.Hospitalization;
+import packagee.model.Appointment;
+import packagee.model.Doctor;
+import packagee.model.Patient;
+import packagee.model.User;
 import java.awt.Color;
 import java.util.ArrayList;
 

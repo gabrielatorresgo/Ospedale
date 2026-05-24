@@ -4,6 +4,15 @@
  */
 package packagee;
 
+import packagee.model.enums.Specialty;
+import packagee.model.enums.RoomType;
+import packagee.model.enums.AppointmentStatus;
+import packagee.model.Hospitalization;
+import packagee.model.Appointment;
+import packagee.model.Doctor;
+import packagee.model.Patient;
+import packagee.model.Administrator;
+import packagee.model.User;
 import java.awt.Color;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
